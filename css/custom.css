@@ -112,6 +112,7 @@ ul {
 .contenido-hero form #buscador {
     height: 50px;
     margin-bottom: 0;
+    color: #000 ;
 }
 
 .contenido-hero form .submit-buscador {
